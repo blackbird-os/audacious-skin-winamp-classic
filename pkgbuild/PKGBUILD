@@ -1,12 +1,12 @@
 # $Id$
 # Maintainer: James Kittsmiller (AJSlye) <james@nulogicsystems.com>
 
-pkgname=audaicious-skin-winamp-classic
+pkgname=audacious-skin-winamp-classic
 pkgver=1.0
 pkgrel=1
 pkgdesc="The classic winamp skin for audacious"
 arch=('any')
-url='https://github.com/blackbird-os/audaicious-skin-winamp-classic'
+url='https://github.com/blackbird-os/audacious-skin-winamp-classic'
 depends=('audacious')
 license=('GPL')
 package() {
